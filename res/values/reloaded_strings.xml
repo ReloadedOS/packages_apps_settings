@@ -79,4 +79,7 @@
     <string name="immersive_navigation_title">Immersive Navigation</string>
     <string name="immersive_navigation_summary">Hide the gesture pill and navigation bar padding.</string>
 
+    <!-- Name of Refresh Rate controls category in Display Settings [CHAR LIMIT=none] -->
+    <string name="category_name_refresh_rate_controls">Refresh Rate</string>
+
 </resources>
