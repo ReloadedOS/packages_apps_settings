@@ -70,4 +70,8 @@
     <string name="display_cutout_force_fullscreen_search">Search</string>
     <string name="display_cutout_force_fullscreen_search_apps">Search apps</string>
 
+    <!-- Annoying Notifications -->
+    <string name="notification_sound_vib_screen_on_title">Annoying notifications</string>
+    <string name="notification_sound_vib_screen_on_summary">Play sound and vibration for notifications when the screen is on</string>
+
 </resources>
